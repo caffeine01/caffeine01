@@ -1,16 +1,13 @@
-### Hi there 👋
+## About me:
+- age: 15
+- favourite lang: kotlin
+- want to learn: haskell
+i use linux.
+#
 
-<!--
-**caffeine01/caffeine01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Socials:
+- twitter: @caffeine0727
+- discord: caffeine#1839
+- email: caffeine@caffeine.moe
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
