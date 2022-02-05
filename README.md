@@ -2,7 +2,7 @@
 - age: 15
 - favourite lang: kotlin
 - want to learn: haskell
-i use linux.
+- linux: user
 #
 
 ## Socials:
