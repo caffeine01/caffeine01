@@ -8,6 +8,6 @@
 
 ## Socials:
 - twitter: @caffeine0727
-- discord: caffeine#1839
+- discord: caffeine.moe
 - email: caffeine@caffeine.moe
 
