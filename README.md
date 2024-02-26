@@ -1,7 +1,7 @@
 [![Logo](https://caffeine.moe/CHAOS/logo-min.jpg)](https://github.com/caffeine-moe/CHAOS)
 
 ## About me:
-- age: 16
+- age: 17
 - favourite lang: kotlin
 - want to learn: haskell
 - linux: user
