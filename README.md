@@ -2,12 +2,9 @@
 
 ## About me:
 - age: 17
-- favourite lang: kotlin
+- favourite langs: kotlin, rust
 - want to learn: haskell
 - linux: user
 
-## Socials:
-- twitter: @caffeine0727
-- discord: caffeine.moe
+## Contact:
 - email: caffeine@caffeine.moe
-
