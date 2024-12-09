@@ -1,4 +1,4 @@
-[![Logo](https://caffeine.moe/CHAOS/logo-min.jpg)](https://github.com/caffeine-moe/CHAOS)
+[![ALERT](https://raw.githubusercontent.com/caffeine01/caffeine01/refs/heads/main/ALERT.png)](https://caffeine.moe/)
 
 ## About me:
 - age: 17
