@@ -3,8 +3,8 @@
 
 ## About me:
 <a href="https://github.com/jstrieb/github-stats">
-<img src="https://raw.githubusercontent.com/caffeine01/jstrieb-github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/caffeine01/jstrieb-github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="[https://raw.githubusercontent.com/caffeine01/git-stats/actions_branch/generated_images/overview.svg#gh-dark-mode-only" />
+<img src="[https://raw.githubusercontent.com/caffeine01/git-stats/actions_branch/generated_images/languages.svg#gh-dark-mode-only" />
 </a>
 
 - age: 17
