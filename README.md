@@ -7,7 +7,6 @@
 <img src="https://raw.githubusercontent.com/caffeine01/git-stats/actions_branch/generated_images/languages.svg" />
 </a>
 
-- age: 17
 - favourite langs: kotlin, rust
 - want to learn: haskell
 - linux: user
